@@ -47,14 +47,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sbycrosz/react-native-credit-card-input.git"
+    "url": "git+https://github.com/AmjadTotalPresent/react-native-credit-card-input.git"
   },
-  "author": "sbycrosz <sbycrosz@gmail.com> (https://github.com/sbycrosz)",
+  "author": "sbycrosz <sbycrosz@gmail.com> (https://github.com/AmjadTotalPresent)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sbycrosz/react-native-credit-card-input/issues"
+    "url": "https://github.com/AmjadTotalPresent/react-native-credit-card-input/issues"
   },
-  "homepage": "https://github.com/sbycrosz/react-native-credit-card-input#readme",
+  "homepage": "https://github.com/AmjadTotalPresent/react-native-credit-card-input#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
